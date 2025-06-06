@@ -64,7 +64,7 @@ java-backend-hub/
 ☕ Java Development Kit (JDK) 8 or higher
 📦 Maven or Gradle for build management  
 💻 IDE (IntelliJ IDEA, Eclipse, or VS Code)
-🗄️ Database (MySQL, PostgreSQL, or H2 for testing)
+  🗄️ Database (MySQL, PostgreSQL, or H2 for testing)
 🌐 Chrome/Firefox browser for Selenium tests
 ```
 
