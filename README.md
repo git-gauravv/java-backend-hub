@@ -72,7 +72,7 @@ java-backend-hub/
 
 ### 📥 Cloning the Repository
 ```bash
-git clone https://github.com/git-gauravv/java-backend-hub.git
+git clone https://github.com/gauravv-io/java-backend-hub.git
 cd java-backend-hub
 ```
 
